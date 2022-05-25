@@ -2,7 +2,7 @@
 title: "실용주의 프로그래머 The Pragmatic Programmer"
 categories:
   - book
-  - pragmaic
+  - pragmatic
   - programmer
 tags:
   - book
@@ -22,4 +22,3 @@ tags:
 
 <br>
 <br>
-...읽는 중입니다!
